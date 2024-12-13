@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+.env
+venv/Lib/site-packages/torch/lib/dnnl.lib
+venv/Lib/site-packages/torch/lib/torch_cpu.dll
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
