@@ -35,8 +35,6 @@ ads-recommendation-system/
 │
 ├── data/                      # Dataset directory
 ├── src/                      # Source code
-├── notebooks/                # Jupyter notebooks
-├── tests/                    # Unit tests
 ├── requirements.txt          # Project dependencies
 ├── README.md                 # Project documentation
 ├── .gitignore               # Git ignore rules
